@@ -1,0 +1,28 @@
+# Open Audio Weekend Materials
+
+NYPL, The Moth, and our partner organizations have made **XXX** audio files (**XXX** hours), **XXX** computer-generated transcripts, **XXX** human-generated transcripts, and **XXX** annotations available for use in this event.
+
+## The Collections
+
+  * [Our Streets, Our Stories](http://www.bklynlibrary.org/seniors/our-streets-our-stories-o) by [Brooklyn Public Library](https://www.bklynlibrary.org/) is an oral history project of the Brooklyn Public Library’s Department of Outreach Services that seeks to explore the Brooklyn that is, and the Brooklyn that was, from the words of the community that lives there. The project aims to actively collect a broad range of stories from our diverse neighborhoods, so that future generations may better understand the history of the borough.
+  * [Another Round](https://www.buzzfeed.com/anotherround) by [Buzzfeed](https://www.buzzfeed.com/) - Heben Nigatu and Tracy Clayton cover everything from race, gender and pop culture to squirrels, mangoes, and bad jokes, all in one boozy show.
+  * [Gimlet Media](https://gimletmedia.com/) is the premier digital media company focused on producing high quality narrative podcasts. They have provided audio from four of their podcasts:
+    * [Reply All](https://gimletmedia.com/show/reply-all/) - A Show About the Internet
+    * [Mystery Show Case](https://gimletmedia.com/show/mystery-show/) - A podcast where Starlee Kine solves mysteries.
+    * [Surprisingly Awesome](https://gimletmedia.com/show/surprisingly-awesome/) - Revealing the hidden awesomeness in everyday things
+    * [Sampler](https://gimletmedia.com/show/sampler/) - A podcast about podcasts, hosted by Brittany Luse
+  * [Center for Applied Linguistics Collection](https://www.loc.gov/collections/american-english-dialect-recordings-from-the-center-for-applied-linguistics/about-this-collection/) provided by the [The Library of Congress](https://loc.gov) contains 118 hours of recordings documenting North American English dialects. The recordings include speech samples, linguistic interviews, oral histories, conversations, and excerpts from public speeches. The Library of Congress is the world’s largest library, offering access to the creative record of the United States—and extensive materials from around the world—both on site and online. It is the main research arm of the U.S. Congress and the home of the U.S. Copyright Office.
+  * [LIVE from the NYPL](http://www.nypl.org/events/live-nypl) is [The New York Public Library](http://www.nypl.org/)'s flagship ticketed event series, offering programs that are as unique and engaging as the Library itself, and embody the institution's mission to educate, inform, and inspire the diverse community it serves in New York and beyond. Under the direction of Paul Holdengräber since it launched in 2005, LIVE's provocative conversations, real debates, irresistible performances and original experiences are exercises in cognitive theater designed to stimulate cultural curiosity. During its Fall and Spring seasons, LIVE welcomes to its stage the literary icons, groundbreaking artists, creative filmmakers, notable historians, influential leaders and emerging tastemakers who are shaping the world today.
+  * [Fresh Air](http://www.npr.org/programs/fresh-air/) with Terry Gross ([NPR](http://www.npr.org/)). Since its national debut in 1987, Fresh Air has been a highly acclaimed and much adored weekday magazine among public radio listeners. Each week, nearly 4.8 million people turn to Peabody Award-winning host Terry Gross for insightful conversations with the leading voices in contemporary arts and issues. The renowned program reaches a global audience, with over 620 public radio stations broadcasting Fresh Air, and 3 million podcast downloads each week.
+  * [The World in Words](http://www.pri.org/collections/world-words) by [PRI](http://www.pri.org/) is a podcast about languages and the people who speak them. What happens to the brain on bilingualism? Should we fear the rise of global English? Is the United States losing its linguistic cohesion? Why are Chinese words about technology so inventive? Why does Icelandic have so many cool swearwords? Patrick Cox and Nina Porzucki bring you stories from the world’s linguistic frontlines. (In short, we’re nerdy and wordy.)
+  * [Patricia Marx Interviews](http://www.wnyc.org/shows/patricia-marx/) is a series of interviews done for [WNYC](http://www.wnyc.org/) and other stations between 1961 and 1969 that include talks with: Woody Allen, Dick Gregory, William Golding, General Omar Bradley, Arthur C. Clarke, David Halberstam, Bob Hope, George Balanchine and others. Established in the year 2000, the [New York Public Radio Archives](http://www.wnyc.org/series/archives-preservation/) are the station's physical link to its rich and storied past.
+
+## Access The Collections
+
+You can access them in a number of ways:
+
+### Download the zip files of each collection
+
+### Download individual files
+
+### Programmatically download the files
