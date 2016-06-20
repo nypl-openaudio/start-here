@@ -7,13 +7,13 @@ NYPL, The Moth, and our partner organizations have made **XXX** audio files (**X
 
 ## Access The Collections
 
-You can access the content (audio, computer-generated transcripts, and other data) of these collections by downloading a .zip file of the entire collection or downloading individual files which are viewable by visiting the repository of the collection. The links to these are:
+You can access the content (audio, computer-generated transcripts, and other data) of these collections by downloading a .zip file of each collection or downloading individual audio or transcript files which are viewable by visiting the repository of the collection. The links to these are:
 
 | Collection(s) | Contributor | Link to .zip | Link to repository |
 |---|---|---|---|
 | [Our Streets, Our Stories](http://www.bklynlibrary.org/seniors/our-streets-our-stories-o) | [Brooklyn Public Library](https://www.bklynlibrary.org/) | [download .zip](https://github.com/nypl-openaudio/data-brooklyn-public-library/archive/master.zip) (~1.4GB) | [repository of materials](https://github.com/nypl-openaudio/data-brooklyn-public-library) |
 | [Another Round](https://www.buzzfeed.com/anotherround) | [Buzzfeed](https://www.buzzfeed.com/) | [download .zip](https://github.com/nypl-openaudio/data-buzzfeed/archive/master.zip) (~1.4GB) | [repository of materials](https://github.com/nypl-openaudio/data-buzzfeed) |
-| [Reply All](https://gimletmedia.com/show/reply-all/), [Mystery Show Case](https://gimletmedia.com/show/mystery-show/), [Surprisingly Awesome](https://gimletmedia.com/show/surprisingly-awesome/), [Sampler](https://gimletmedia.com/show/sampler/) | [Gimlet Media](https://gimletmedia.com/) Collection | [download .zip](https://github.com/nypl-openaudio/data-gimlet/archive/master.zip) (~1.6GB) | [repository of materials](https://github.com/nypl-openaudio/data-gimlet) |
+| [Reply All](https://gimletmedia.com/show/reply-all/), [Mystery Show Case](https://gimletmedia.com/show/mystery-show/), [Surprisingly Awesome](https://gimletmedia.com/show/surprisingly-awesome/), [Sampler](https://gimletmedia.com/show/sampler/) | [Gimlet Media](https://gimletmedia.com/) | [download .zip](https://github.com/nypl-openaudio/data-gimlet/archive/master.zip) (~1.6GB) | [repository of materials](https://github.com/nypl-openaudio/data-gimlet) |
 | [Center for Applied Linguistics Collection](https://www.loc.gov/collections/american-english-dialect-recordings-from-the-center-for-applied-linguistics/about-this-collection/) | [The Library of Congress](https://loc.gov) | [download .zip](https://github.com/nypl-openaudio/data-library-of-congress/archive/master.zip) (~3GB) | [repository of materials](https://github.com/nypl-openaudio/data-library-of-congress) |
 | [LIVE from the NYPL](http://www.nypl.org/events/live-nypl) | [The New York Public Library](http://www.nypl.org/) | [download .zip](https://github.com/nypl-openaudio/data-nypl-live/archive/master.zip) (~1GB) | [repository of materials](https://github.com/nypl-openaudio/data-nypl-live) |
 | [Fresh Air](http://www.npr.org/programs/fresh-air/) with Terry Gross | [NPR](http://www.npr.org/) | [download .zip](https://github.com/nypl-openaudio/data-npr-fresh-air/archive/master.zip) (~576MB) | [repository of materials](https://github.com/nypl-openaudio/data-npr-fresh-air/) |
@@ -21,6 +21,10 @@ You can access the content (audio, computer-generated transcripts, and other dat
 | [Patricia Marx Interviews](http://www.wnyc.org/shows/patricia-marx/) | [WNYC Preservation](http://www.wnyc.org/preservation/) | [download .zip](https://github.com/nypl-openaudio/data-wnyc/archive/master.zip) (~1GB) | [repository of materials](https://github.com/nypl-openaudio/data-wnyc) |
 
 ### Programmatically download the files
+
+There is a [.csv file](https://github.com/nypl-openaudio/start-here/blob/master/materials/manifest.csv) that contains all the metadata and links to materials. Each collection's repository also contains information of how to access its materials.
+
+There is a [python script](https://github.com/nypl-openaudio/start-here/blob/master/materials/get_materials.py) that demonstrates how to access the materials programmatically using the .csv file above.
 
 ## Collection Details
 
