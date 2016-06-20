@@ -2,6 +2,9 @@
 
 NYPL, The Moth, and our partner organizations have made **XXX** audio files (**XXX** hours), **XXX** computer-generated transcripts, **XXX** human-generated transcripts, and **XXX** annotations available for use in this event.
 
+- [The Collections](#the-collections)
+- [Access The Collections](#access-the-collections)
+
 ## The Collections
 
   * [Our Streets, Our Stories](http://www.bklynlibrary.org/seniors/our-streets-our-stories-o) by [Brooklyn Public Library](https://www.bklynlibrary.org/) is an oral history project of the Brooklyn Public Library’s Department of Outreach Services that seeks to explore the Brooklyn that is, and the Brooklyn that was, from the words of the community that lives there. The project aims to actively collect a broad range of stories from our diverse neighborhoods, so that future generations may better understand the history of the borough.
@@ -19,10 +22,15 @@ NYPL, The Moth, and our partner organizations have made **XXX** audio files (**X
 
 ## Access The Collections
 
-You can access them in a number of ways:
+You can the content (audio and computer-generated transcripts) of these collections by download a .zip file of the entire collection or downloading individual files which are viewable by visiting the repository of the collection. The links to these are:
 
-### Download the zip files of each collection
-
-### Download individual files
+  * [Our Streets, Our Stories](http://www.bklynlibrary.org/seniors/our-streets-our-stories-o) by [Brooklyn Public Library](https://www.bklynlibrary.org/):  [download .zip](https://github.com/nypl-openaudio/data-brooklyn-public-library/archive/master.zip) (~1.4GB) | [repository of materials](https://github.com/nypl-openaudio/data-brooklyn-public-library)
+  * [Another Round](https://www.buzzfeed.com/anotherround) by [Buzzfeed](https://www.buzzfeed.com/):  [download .zip](https://github.com/nypl-openaudio/data-buzzfeed/archive/master.zip) (~1.4GB) | [repository of materials](https://github.com/nypl-openaudio/data-buzzfeed)
+  * [Gimlet Media](https://gimletmedia.com/) Collection:  [download .zip](https://github.com/nypl-openaudio/data-gimlet/archive/master.zip) (~1.6GB) | [repository of materials](https://github.com/nypl-openaudio/data-gimlet)
+  * [Center for Applied Linguistics Collection](https://www.loc.gov/collections/american-english-dialect-recordings-from-the-center-for-applied-linguistics/about-this-collection/) provided by the [The Library of Congress](https://loc.gov):  [download .zip](https://github.com/nypl-openaudio/data-library-of-congress/archive/master.zip) (~3GB) | [repository of materials](https://github.com/nypl-openaudio/data-library-of-congress)
+  * [LIVE from the NYPL](http://www.nypl.org/events/live-nypl) by [The New York Public Library](http://www.nypl.org/):  [download .zip](https://github.com/nypl-openaudio/data-nypl-live/archive/master.zip) (~1GB) | [repository of materials](https://github.com/nypl-openaudio/data-nypl-live)
+  * [Fresh Air](http://www.npr.org/programs/fresh-air/) with Terry Gross ([NPR](http://www.npr.org/)):  [download .zip](https://github.com/nypl-openaudio/data-npr-fresh-air/archive/master.zip) (~576MB) | [repository of materials](https://github.com/nypl-openaudio/data-npr-fresh-air/)
+  * [The World in Words](http://www.pri.org/collections/world-words) by [PRI](http://www.pri.org/):  [download .zip](https://github.com/nypl-openaudio/data-pri-world-in-words/archive/master.zip) (~379MB) | [repository of materials](https://github.com/nypl-openaudio/data-pri-world-in-words)
+  * [Patricia Marx Interviews](http://www.wnyc.org/shows/patricia-marx/) from [New York Public Radio Archives](http://www.wnyc.org/series/archives-preservation/):  [download .zip](https://github.com/nypl-openaudio/data-wnyc/archive/master.zip) (~1GB) | [repository of materials](https://github.com/nypl-openaudio/data-wnyc)
 
 ### Programmatically download the files
