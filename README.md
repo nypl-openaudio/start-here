@@ -60,6 +60,8 @@ Every team will present their project at the end of Day 2. As [described above](
 
 - **Make sure your project includes a README**: select “Initialize this repository with a README” when creating the repository and then [edit the file](https://help.github.com/articles/editing-files-in-your-repository) or just [add a `README.md` file later](https://help.github.com/articles/adding-a-file-to-a-repository) (it is just a regular text file with the `.md` file extension instead of `.txt`).
 - Add this information to your README: project name, team members, project description, and links to all external assets (those outside of the repository). Make sure to take advantage of [Github's text formatting toolbar](https://help.github.com/articles/about-writing-and-formatting-on-github/).
+- If your project is an app (web or otherwise), **make sure to include screenshots.**
+- Depending on your type of project you will [add additional files](https://help.github.com/articles/adding-a-file-to-a-repository/) so you can present and share your project. Ask any of the volunteers if you have any questions on how to use Github.
 
 During the final shareout you will use this repository and README as launchpad for your presentation. All projects will be presented from the same computer which will be connected to the projector so make sure to have all the necessary links in there!
 
