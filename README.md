@@ -14,7 +14,7 @@ Looking for hackathon project repositories? Go to the [NYPL-OpenAudio organizati
 4. [Open Audio Weekend Code of Conduct](#open-audio-weekend-code-of-conduct)
 5. [Resources](#resources)
 6. [Prompts](#prompts)
-7. [Slack](#slack-&-social-media)
+7. [Slack & Social Media](#slack--social-media)
 
 # Open-Audio
 
@@ -73,7 +73,7 @@ Website with a number of excellent resources and services around web accessibili
 ## Slack & Social Media
 We’ve set up an instance of Slack for use during the event. For those of you not familiar with Slack, it’s a chatroom allowing group and 1-on-1 conversations. To use the event Slack, just log in at: [togetherwelisten.nypl.org/openaudio/talk](http://togetherwelisten.nypl.org/openaudio/talk/).
 
-The hashtag for our event is *#openaudio*. Please use it to tag your tweets, Instagrams & other posts related to the event!
+The hashtag for our event is **#openaudio**. Please use it to tag your tweets, Instagrams & other posts related to the event!
 
 ## Documentation Policy  
 
