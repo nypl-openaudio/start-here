@@ -62,6 +62,8 @@ In order to foster a productive and welcoming environment for this hackathon, we
 Website with a number of excellent resources and services around web accessibility many of which are highlighted in the [Resources Page](http://webaim.org/resources/).
 
 ## Prompts
+As you know, Open Audio Weekend is a two-day hackathon to make audio accessible for the public good. It’s a big challenge to tackle so we’ve compiled some prompts to stimulate conversations and project ideas!  
+
 * **Discover**: What new experiences can we make around discovery of audio?  
 * **Find**: How can we make it easier to search audio?  
 * **Listen**: What are some meaningful ways we can augment the experience of listening to audio?  
