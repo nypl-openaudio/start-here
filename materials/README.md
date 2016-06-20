@@ -1,6 +1,6 @@
 # Open Audio Weekend Materials
 
-NYPL, The Moth, and our partner organizations have made **XXX** audio files (**XXX** hours), **XXX** computer-generated transcripts, **XXX** human-generated transcripts, and **XXX** annotations available for use in this event.
+NYPL, The Moth, and our partner organizations have made 136 audio files (over 20 hours), 136 computer-generated transcripts, **XXX** human-generated transcripts, and **XXX** annotations available for use in this event.
 
 - [Access The Collections](#access-the-collections)
 - [Collection Details](#collection-details)
@@ -19,6 +19,12 @@ You can access the content (audio, computer-generated transcripts, and other dat
 | [Fresh Air](http://www.npr.org/programs/fresh-air/) with Terry Gross | [NPR](http://www.npr.org/) | [download .zip](https://github.com/nypl-openaudio/data-npr-fresh-air/archive/master.zip) (~576MB) | [repository of materials](https://github.com/nypl-openaudio/data-npr-fresh-air/) |
 | [The World in Words](http://www.pri.org/collections/world-words) | [PRI](http://www.pri.org/) | [download .zip](https://github.com/nypl-openaudio/data-pri-world-in-words/archive/master.zip) (~379MB) | [repository of materials](https://github.com/nypl-openaudio/data-pri-world-in-words) |
 | [Patricia Marx Interviews](http://www.wnyc.org/shows/patricia-marx/) | [WNYC Preservation](http://www.wnyc.org/preservation/) | [download .zip](https://github.com/nypl-openaudio/data-wnyc/archive/master.zip) (~1GB) | [repository of materials](https://github.com/nypl-openaudio/data-wnyc) |
+
+### Browse/search transcripts via web interface
+
+All of these materials are browsable and searchable via a web interface. Visit [this URL](https://opentranscript.herokuapp.com/) to browse all the transcripts. You can also [search](https://opentranscript.herokuapp.com/search) the transcripts through this interface as well. You can also manually download any transcript through this interface.
+
+NYPL and The Moth have their own versions of this interface for viewing transcripts. The NYPL version is [here](http://transcribe.oralhistory.nypl.org/) and The Moth's version is [here](http://storyscribe.themoth.org/)
 
 ### Programmatically download the files
 

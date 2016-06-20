@@ -12,8 +12,9 @@ Looking for hackathon project repositories? Go to the [NYPL-OpenAudio organizati
 1. [Wayfinding](#wayfinding)
 2. [Schedule](#schedule)
 4. [Open Audio Weekend Code of Conduct](#open-audio-weekend-code-of-conduct)
-5. [Resources](#resources)
-6. [Prompts](#prompts)
+5. [Materials](#materials)
+6. [Resources](#resources)
+7. [Prompts](#prompts)
 
 # Open-Audio
 
@@ -45,7 +46,7 @@ At the start of both Saturday and Sunday, event volunteers will be stations outs
 
 [Git](https://git-scm.com/) is a file control system that lets people share and contribute to projects (called “repositories”), most of them software projects (but some people use it for other things, like [taco recipes](https://github.com/sinker/tacofancy)). Github (the website you are on now) is a company that allows anyone to host public Git projects for free.
 
-We will use Git and Github to share the projects made during the Open Audio Weekend. If you're not a programmer, don't worry, sharing files in Github is as easy as dragging and dropping files to your browser! For a quick introduction on creating and updating a repository on Github, read the [Creating a Repository](https://help.github.com/articles/create-a-repo/) and [Adding a File to a Repository](https://help.github.com/articles/adding-a-file-to-a-repository/) tutorials. There are more examples in the [Github help](https://help.github.com/). There is also this [great introductory tutorial](http://ablwr.github.io/blog/2014/11/03/non-technical-persons-guide-to-becoming-an-open-source-software-contributor-via-github/) on how to become an open-source software contributor via Github by [Ashley Blewer](//github.com/ablwr). 
+We will use Git and Github to share the projects made during the Open Audio Weekend. If you're not a programmer, don't worry, sharing files in Github is as easy as dragging and dropping files to your browser! For a quick introduction on creating and updating a repository on Github, read the [Creating a Repository](https://help.github.com/articles/create-a-repo/) and [Adding a File to a Repository](https://help.github.com/articles/adding-a-file-to-a-repository/) tutorials. There are more examples in the [Github help](https://help.github.com/). There is also this [great introductory tutorial](http://ablwr.github.io/blog/2014/11/03/non-technical-persons-guide-to-becoming-an-open-source-software-contributor-via-github/) on how to become an open-source software contributor via Github by [Ashley Blewer](//github.com/ablwr).
 
 Event volunteers will be on hand during the event to help out.
 
@@ -56,9 +57,18 @@ Event volunteers will be on hand during the event to help out.
 
 In order to foster a productive and welcoming environment for this hackathon, we request that all participants read the [NYPL Rules & Regulations](http://www.nypl.org/help/about-nypl/legal-notices/rules-and-regulations) document, which will serve as the code of conduct for the event.
 
-## Resources  
-* [WebAIM: Web Accessibility in Mind](http://webaim.org/resources/)  
+## Materials
+
+Information regarding how to obtain audio and transcripts provided by the Open Audio Weekend partners can be found in [the Materials section](https://github.com/nypl-openaudio/start-here/tree/master/materials).
+
+## Resources
+
+* [WebAIM: Web Accessibility in Mind](http://webaim.org/resources/) -
 Website with a number of excellent resources and services around web accessibility many of which are highlighted in the [Resources Page](http://webaim.org/resources/).
+* [Open Transcript Editor](https://github.com/NYPL/transcript-editor) - an open-source, self-hosted, web-based tool for correcting transcripts that were automatically generated using speech-to-text software via auto-transcription services such as [Pop Up Archive](https://popuparchive.com/). It is being developed by [NYPL Labs](http://www.nypl.org/collections/labs) in partnership with [The Moth](http://themoth.org/) and [Pop Up Archive](https://popuparchive.com/) with generous support from the [Knight Foundation](http://www.knightfoundation.org/grants/201551666/). Example implementations can be found at:
+  * [The NYPL Community Oral History Transcript Editor](http://transcribe.oralhistory.nypl.org/)
+  * [StoryScribe by The Moth](http://storyscribe.themoth.org/)
+  * [Open Audio Weekend](https://opentranscript.herokuapp.com/) - contains transcripts specifically for this event
 
 ## Prompts
 * **Discover**: What new experiences can we make around discovery of audio?  
@@ -71,4 +81,4 @@ Website with a number of excellent resources and services around web accessibili
 
 # Documentation Policy  
 
-Participants of this event may be photographed or filmed for educational and promotional purposes. Please notify staff if you do not wish to be photographed or filmed. 
+Participants of this event may be photographed or filmed for educational and promotional purposes. Please notify staff if you do not wish to be photographed or filmed.
