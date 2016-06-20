@@ -15,6 +15,7 @@ Looking for hackathon project repositories? Go to the [NYPL-OpenAudio organizati
 5. [Materials](#materials)
 6. [Resources](#resources)
 7. [Prompts](#prompts)
+8. [Slack & Social Media](#slack--social-media)
 
 # Open-Audio
 
@@ -71,6 +72,8 @@ Website with a number of excellent resources and services around web accessibili
   * [Open Audio Weekend](https://opentranscript.herokuapp.com/) - contains transcripts specifically for this event
 
 ## Prompts
+As you know, Open Audio Weekend is a two-day hackathon to make audio accessible for the public good. It’s a big challenge to tackle so we’ve compiled some prompts to stimulate conversations and project ideas!  
+
 * **Discover**: What new experiences can we make around discovery of audio?  
 * **Find**: How can we make it easier to search audio?  
 * **Listen**: What are some meaningful ways we can augment the experience of listening to audio?  
@@ -79,6 +82,11 @@ Website with a number of excellent resources and services around web accessibili
 * **Engage**: How can we engage a community through audio?  
 * **Access**:  How can we make audio collections more usable for people with disabilities?  
 
-# Documentation Policy  
+## Slack & Social Media
+We’ve set up an instance of Slack for use during the event. For those of you not familiar with Slack, it’s a chatroom allowing group and 1-on-1 conversations. To use the event Slack, just log in at: [togetherwelisten.nypl.org/openaudio/talk](http://togetherwelisten.nypl.org/openaudio/talk/).
+
+The hashtag for our event is **#openaudio**. Please use it to tag your tweets, Instagrams & other posts related to the event!
+
+## Documentation Policy  
 
 Participants of this event may be photographed or filmed for educational and promotional purposes. Please notify staff if you do not wish to be photographed or filmed.
