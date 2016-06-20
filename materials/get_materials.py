@@ -19,7 +19,7 @@ print "%s items found" % len(materials)
 def printInfo(item):
 
     # download the transcript
-    response = urllib2.urlopen(example["transcript_json"])
+    response = urllib2.urlopen(item["transcript_json"])
     transcript = json.load(response)
     print "Loaded the transcript for %s from collection %s" % (item["title"], item["collection_title"])
 
