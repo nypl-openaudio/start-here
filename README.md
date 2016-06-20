@@ -68,3 +68,7 @@ Website with a number of excellent resources and services around web accessibili
 * **Learn**: What can we learn from audio? How can audio be used in an educational context?  
 * **Engage**: How can we engage a community through audio?  
 * **Access**:  How can we make audio collections more usable for people with disabilities?  
+
+# Documentation Policy  
+
+Participants of this event may be photographed or filmed for educational and promotional purposes. Please notify staff if you do not wish to be photographed or filmed. 
