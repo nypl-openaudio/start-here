@@ -52,7 +52,7 @@ We will use Git and Github to share the projects made during the Open Audio Week
 
 Event volunteers will be on hand during the event to help out.
 
-> **IMPORTANT:** All code you submit in the Open Audio Weekend should go to repositories you create in the [OpenAudio Organization](//github.com/nypl-openaudio).
+> **IMPORTANT:** All code you submit in the Open Audio Weekend should go to repositories you create in the [OpenAudio Organization](//github.com/nypl-openaudio). Make sure your repositories are public.
 
 ### Sharing Your Project
 
