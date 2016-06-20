@@ -20,7 +20,7 @@ Looking for hackathon project repositories? Go to the [NYPL-OpenAudio organizati
 ## Wayfinding  
 Open Audio Weekend is being held in the Celeste Bartos Forum of The New York Public Library's central branch, the [Stephen A. Schwarzman Building](http://www.nypl.org/locations/schwarzman). The Celeste Bartos Forum is on the ground floor of the library and is accessable through the Library entrance on 42nd Street. This entrance is wheelchair accessible. Upon entering at 42nd Street, the forum is directly opposite this entrance.   
 
-At the start of both Saturday and Sunday, event volunteers will be stations outside the entrance of the forum and available for questions. Throughout the event, staff and volunteers will be available to attendees. The hackathon is being held during the Library's public hours.  
+At the start of both Saturday and Sunday, event volunteers will be stations outside the entrance of the forum and available for questions. Throughout the event, staff and volunteers will be available to attendees.  
 
 ## Schedule
 
