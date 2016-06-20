@@ -13,9 +13,10 @@ Looking for hackathon project repositories? Go to the [NYPL-OpenAudio organizati
 2. [Schedule](#schedule)
 4. [New to Git or Github?](#new-to-git-or-github)
 4. [Open Audio Weekend Code of Conduct](#open-audio-weekend-code-of-conduct)
-5. [Resources](#resources)
-6. [Prompts](#prompts)
-7. [Slack & Social Media](#slack--social-media)
+5. [Materials](#materials)
+6. [Resources](#resources)
+7. [Prompts](#prompts)
+8. [Slack & Social Media](#slack--social-media)
 
 # Open-Audio
 
@@ -66,9 +67,18 @@ During the final shareout you will use this repository and README as launchpad f
 
 In order to foster a productive and welcoming environment for this hackathon, we request that all participants read the [NYPL Rules & Regulations](http://www.nypl.org/help/about-nypl/legal-notices/rules-and-regulations) document, which will serve as the code of conduct for the event.
 
-## Resources  
-* [WebAIM: Web Accessibility in Mind](http://webaim.org/resources/)  
+## Materials
+
+Information regarding how to obtain audio and transcripts provided by the Open Audio Weekend partners can be found in [the Materials section](https://github.com/nypl-openaudio/start-here/tree/master/materials).
+
+## Resources
+
+* [WebAIM: Web Accessibility in Mind](http://webaim.org/resources/) -
 Website with a number of excellent resources and services around web accessibility many of which are highlighted in the [Resources Page](http://webaim.org/resources/).
+* [Open Transcript Editor](https://github.com/NYPL/transcript-editor) - an open-source, self-hosted, web-based tool for correcting transcripts that were automatically generated using speech-to-text software via auto-transcription services such as [Pop Up Archive](https://popuparchive.com/). It is being developed by [NYPL Labs](http://www.nypl.org/collections/labs) in partnership with [The Moth](http://themoth.org/) and [Pop Up Archive](https://popuparchive.com/) with generous support from the [Knight Foundation](http://www.knightfoundation.org/grants/201551666/). Example implementations can be found at:
+  * [The NYPL Community Oral History Transcript Editor](http://transcribe.oralhistory.nypl.org/)
+  * [StoryScribe by The Moth](http://storyscribe.themoth.org/)
+  * [Open Audio Weekend](https://opentranscript.herokuapp.com/) - contains transcripts specifically for this event
 
 ## Prompts
 As you know, Open Audio Weekend is a two-day hackathon to make audio accessible for the public good. It’s a big challenge to tackle so we’ve compiled some prompts to stimulate conversations and project ideas!  
@@ -88,4 +98,4 @@ The hashtag for our event is **#openaudio**. Please use it to tag your tweets, I
 
 ## Documentation Policy  
 
-Participants of this event may be photographed or filmed for educational and promotional purposes. Please notify staff if you do not wish to be photographed or filmed. 
+Participants of this event may be photographed or filmed for educational and promotional purposes. Please notify staff if you do not wish to be photographed or filmed.
