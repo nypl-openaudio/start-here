@@ -7,9 +7,9 @@ NYPL, The Moth, and our partner organizations have made 206 audio files (over 28
 
 ## Access The Collections
 
-You can access the content (audio, computer-generated transcripts, and other data) of these collections by downloading a .zip file of each collection or downloading individual audio or transcript files which are viewable by visiting the repository of the collection. The links to these are:
-
 **Use of these materials is restricted to participants of Open Audio Weekend during that two day event. Please direct any questions to [togetherwelisten@nypl.org](mailto:togetherwelisten@nypl.org).**
+
+You can access the content (audio, computer-generated transcripts, and other data) of these collections by downloading a .zip file of each collection or downloading individual audio or transcript files which are viewable by visiting the repository of the collection. The links to these are:
 
 | Collection(s) | Contributor | Link to .zip | Link to repository |
 |---|---|---|---|
