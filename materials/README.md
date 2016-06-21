@@ -1,6 +1,6 @@
 # Open Audio Weekend Materials
 
-NYPL, The Moth, and our partner organizations have made 206 audio files (over 28 hours), 206 computer-generated transcripts, [TBD] human-generated transcripts, and [TBD] annotations available for use in this event.
+NYPL, The Moth, and our partner organizations have made 206 audio files (over 124 hours), 206 computer-generated transcripts, [TBD] human-generated transcripts, and [TBD] annotations available for use in this event.
 
 - [Access The Collections](#access-the-collections)
 - [Collection Details](#collection-details)
