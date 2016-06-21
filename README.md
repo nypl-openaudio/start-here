@@ -12,11 +12,13 @@ Looking for hackathon project repositories? Go to the [NYPL-OpenAudio organizati
 1. [Wayfinding](#wayfinding)
 2. [Schedule](#schedule)
 4. [New to Git or Github?](#new-to-git-or-github)
+5. [Sharing Your Project](#sharing-your-project)
 4. [Open Audio Weekend Code of Conduct](#open-audio-weekend-code-of-conduct)
 5. [Materials](#materials)
 6. [Resources](#resources)
 7. [Prompts](#prompts)
 8. [Slack & Social Media](#slack--social-media)
+9. [Documentation Policy](#documentation-policy)
 
 # Open-Audio
 
@@ -101,3 +103,5 @@ The hashtag for our event is **#openaudio**. Please use it to tag your tweets, I
 ## Documentation Policy  
 
 Participants of this event may be photographed or filmed for educational and promotional purposes. Please notify staff if you do not wish to be photographed or filmed.
+
+[Return to Top](#open-audio-weekend)
