@@ -2,11 +2,7 @@
 
 Repo for NYPL's 2016 Event, [Open Audio Weekend](http://togetherwelisten.nypl.org/openaudio/)
 
-The root directory of this repository contains data, documents, and images that are general purpose and could pertain to multiple challenges. <!--Challenge specific data, documents, and images can be found under the challenges directory in a subdirectory with the same name as that challenge. Cloning this repository will give you local copies of all source files involved with all challenges.-->
-
-<!--Don't forget to check social media for hashtag [#OpenAudio](https://twitter.com/search?f=tweets&vertical=default&q=openaudio&src=typd)!-->
-
-<!--Looking for hackathon project repositories? Go to the [NYPL-OpenAudio organization page](https://github.com/nypl-openaudio)-->
+This page contains a host of logistical and introductory materials for Open Audio Weekend, hosted at The New York Public Library, June 25-26, 2016. 
 
 # Table of Contents  
 1. [Wayfinding](#wayfinding)
