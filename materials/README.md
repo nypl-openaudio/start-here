@@ -9,6 +9,8 @@ NYPL, The Moth, and our partner organizations have made 206 audio files (over 28
 
 You can access the content (audio, computer-generated transcripts, and other data) of these collections by downloading a .zip file of each collection or downloading individual audio or transcript files which are viewable by visiting the repository of the collection. The links to these are:
 
+**Use of these materials is restricted to participants of Open Audio Weekend during that two day event. Please direct any questions to [togetherwelisten@nypl.org](mailto:togetherwelisten@nypl.org).**
+
 | Collection(s) | Contributor | Link to .zip | Link to repository |
 |---|---|---|---|
 | [Our Streets, Our Stories](http://www.bklynlibrary.org/seniors/our-streets-our-stories-o) | [Brooklyn Public Library](https://www.bklynlibrary.org/) | [download .zip](https://github.com/nypl-openaudio/data-brooklyn-public-library/archive/master.zip) (~1.4GB) | [repository of materials](https://github.com/nypl-openaudio/data-brooklyn-public-library) |

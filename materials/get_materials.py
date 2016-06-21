@@ -1,5 +1,11 @@
 # -*- coding: utf-8 -*-
 
+# This script reads all items listed in the manifest.csv document,
+# takes the first item, downloads its transcript and audio file,
+# and prints duration, word count, and file size
+#
+# Usage: python get_materials.py
+
 import csv
 import json
 import os
