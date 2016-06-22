@@ -40,6 +40,12 @@ At the start of both Saturday and Sunday, event volunteers will be stationed out
 | 4:00 PM |	Final shareout |
 | 5:30 PM |	Open Audio Weekend ends |
 
+This is a big topic with a lot to discuss and discover. If you're interested in continuing conversation, collaboration, and creation beyond the hosted hours, here are a few suggested spots close to the Library.
+
+* **[Bryant Park](http://www.bryantpark.org/)**: The Library's backyard with free wifi to boot.
+* **[Southwest Porch](http://www.bryantpark.org/things-to-do/southwest_porch.html)**: Located in Bryan Park this bar serves food and free wifi.
+* **[Slattery’s Midtown Pub](http://www.yelp.com/biz/slatterys-midtown-pub-new-york):** a local bar serving food and wifi.
+
 ## Open Audio Weekend Code of Conduct
 
 In order to foster a productive and welcoming environment for this hackathon, we request that all participants read the [NYPL Rules & Regulations](http://www.nypl.org/help/about-nypl/legal-notices/rules-and-regulations) document, which will serve as the code of conduct for the event.
