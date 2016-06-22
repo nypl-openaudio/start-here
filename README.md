@@ -6,14 +6,14 @@ Welcome to the repo for [Open Audio Weekend](http://togetherwelisten.nypl.org/op
 # Table of Contents  
 1. [Logistics](#logistics)
 2. [Schedule](#schedule)
-4. [New to Git or Github?](#new-to-git-or-github)
-5. [Sharing Your Project](#sharing-your-project)
-4. [Open Audio Weekend Code of Conduct](#open-audio-weekend-code-of-conduct)
+3. [Open Audio Weekend Code of Conduct](#open-audio-weekend-code-of-conduct)
+4. [Prompts](#prompts)
 5. [Materials](#materials)
 6. [Resources](#resources)
-7. [Prompts](#prompts)
-8. [Slack & Social Media](#slack--social-media)
-9. [Documentation Policy](#documentation-policy)
+7. [Slack & Social Media](#slack--social-media)
+8. [New to Git or Github?](#new-to-git-or-github)
+9. [Sharing Your Project](#sharing-your-project)
+10. [Documentation Policy](#documentation-policy)
 
 
 ## Logistics  
@@ -40,6 +40,39 @@ At the start of both Saturday and Sunday, event volunteers will be stationed out
 | 4:00 PM |	Final shareout |
 | 5:30 PM |	Open Audio Weekend ends |
 
+## Open Audio Weekend Code of Conduct
+
+In order to foster a productive and welcoming environment for this hackathon, we request that all participants read the [NYPL Rules & Regulations](http://www.nypl.org/help/about-nypl/legal-notices/rules-and-regulations) document, which will serve as the code of conduct for the event.
+
+## Prompts
+As you know, Open Audio Weekend is a two-day hackathon to make audio accessible for the public good. It’s a big challenge to tackle so we’ve compiled some prompts to stimulate conversations and project ideas!  
+
+* **Discover**: What new experiences can we make around discovery of audio?  
+* **Find**: How can we make it easier to search audio?  
+* **Listen**: What are some meaningful ways we can augment the experience of listening to audio?  
+* **Share**: How can we make it easier to share audio?  
+* **Learn**: What can we learn from audio? How can audio be used in an educational context?  
+* **Engage**: How can we engage a community through audio?  
+* **Access**:  How can we make audio collections more usable for people with disabilities?  
+
+## Materials
+
+Information regarding how to obtain audio and transcripts provided by the Open Audio Weekend partners can be found in [the Materials section](https://github.com/nypl-openaudio/start-here/tree/master/materials).
+
+## Resources
+
+* [WebAIM: Web Accessibility in Mind](http://webaim.org/resources/) -
+Website with a number of excellent resources and services around web accessibility many of which are highlighted in the [Resources Page](http://webaim.org/resources/).
+* [Open Transcript Editor](https://github.com/NYPL/transcript-editor) - an open-source, self-hosted, web-based tool for correcting transcripts that were automatically generated using speech-to-text software via auto-transcription services such as [Pop Up Archive](https://popuparchive.com/). It is being developed by [NYPL Labs](http://www.nypl.org/collections/labs) in partnership with [The Moth](http://themoth.org/) and [Pop Up Archive](https://popuparchive.com/) with generous support from the [Knight Foundation](http://www.knightfoundation.org/grants/201551666/). Example implementations can be found at:
+  * [The NYPL Community Oral History Transcript Editor](http://transcribe.oralhistory.nypl.org/)
+  * [StoryScribe by The Moth](http://storyscribe.themoth.org/)
+  * [Open Audio Weekend](https://opentranscript.herokuapp.com/) - contains transcripts specifically for this event
+
+## Slack & Social Media
+We’ve set up an instance of Slack for use during the event. For those of you not familiar with Slack, it’s a chatroom allowing group and 1-on-1 conversations. To use the event Slack, just log in at: [togetherwelisten.nypl.org/openaudio/talk](http://togetherwelisten.nypl.org/openaudio/talk/).
+
+The hashtag for our event is **#openaudio**. Please use it to tag your tweets, Instagrams & other posts related to the event!
+
 ## New to Git or Github?
 
 [Git](https://git-scm.com/) is a file control system that lets people share and contribute to projects (called “repositories”), most of them software projects (but some people use it for other things, like [taco recipes](https://github.com/sinker/tacofancy)). Github (the website you are on now) is a company that allows anyone to host public Git projects for free.
@@ -57,42 +90,9 @@ Every team will present their project at the end of Day 2. As [described above](
 - **Make sure your project includes a README**: select “Initialize this repository with a README” when creating the repository and then [edit the file](https://help.github.com/articles/editing-files-in-your-repository) or just [add a `README.md` file later](https://help.github.com/articles/adding-a-file-to-a-repository) (it is just a regular text file with the `.md` file extension instead of `.txt`).
 - Add this information to your README: project name, team members, project description, and links to all external assets (those outside of the repository). Make sure to take advantage of [Github's text formatting toolbar](https://help.github.com/articles/about-writing-and-formatting-on-github/).
 - If your project is an app (web or otherwise), **make sure to include screenshots.**
-- Depending on your type of project you will [add additional files](https://help.github.com/articles/adding-a-file-to-a-repository/) so you can present and share your project. Ask any of the volunteers if you have any questions on how to use Github.
+- Depending on your type of project you may [add additional files](https://help.github.com/articles/adding-a-file-to-a-repository/) so you can present and share your project. Ask any of the volunteers if you have any questions on how to use Github.
 
 During the final shareout you will use this repository and README as launchpad for your presentation. All projects will be presented from the same computer which will be connected to the projector so make sure to have all the necessary links in there!
-
-## Open Audio Weekend Code of Conduct
-
-In order to foster a productive and welcoming environment for this hackathon, we request that all participants read the [NYPL Rules & Regulations](http://www.nypl.org/help/about-nypl/legal-notices/rules-and-regulations) document, which will serve as the code of conduct for the event.
-
-## Materials
-
-Information regarding how to obtain audio and transcripts provided by the Open Audio Weekend partners can be found in [the Materials section](https://github.com/nypl-openaudio/start-here/tree/master/materials).
-
-## Resources
-
-* [WebAIM: Web Accessibility in Mind](http://webaim.org/resources/) -
-Website with a number of excellent resources and services around web accessibility many of which are highlighted in the [Resources Page](http://webaim.org/resources/).
-* [Open Transcript Editor](https://github.com/NYPL/transcript-editor) - an open-source, self-hosted, web-based tool for correcting transcripts that were automatically generated using speech-to-text software via auto-transcription services such as [Pop Up Archive](https://popuparchive.com/). It is being developed by [NYPL Labs](http://www.nypl.org/collections/labs) in partnership with [The Moth](http://themoth.org/) and [Pop Up Archive](https://popuparchive.com/) with generous support from the [Knight Foundation](http://www.knightfoundation.org/grants/201551666/). Example implementations can be found at:
-  * [The NYPL Community Oral History Transcript Editor](http://transcribe.oralhistory.nypl.org/)
-  * [StoryScribe by The Moth](http://storyscribe.themoth.org/)
-  * [Open Audio Weekend](https://opentranscript.herokuapp.com/) - contains transcripts specifically for this event
-
-## Prompts
-As you know, Open Audio Weekend is a two-day hackathon to make audio accessible for the public good. It’s a big challenge to tackle so we’ve compiled some prompts to stimulate conversations and project ideas!  
-
-* **Discover**: What new experiences can we make around discovery of audio?  
-* **Find**: How can we make it easier to search audio?  
-* **Listen**: What are some meaningful ways we can augment the experience of listening to audio?  
-* **Share**: How can we make it easier to share audio?  
-* **Learn**: What can we learn from audio? How can audio be used in an educational context?  
-* **Engage**: How can we engage a community through audio?  
-* **Access**:  How can we make audio collections more usable for people with disabilities?  
-
-## Slack & Social Media
-We’ve set up an instance of Slack for use during the event. For those of you not familiar with Slack, it’s a chatroom allowing group and 1-on-1 conversations. To use the event Slack, just log in at: [togetherwelisten.nypl.org/openaudio/talk](http://togetherwelisten.nypl.org/openaudio/talk/).
-
-The hashtag for our event is **#openaudio**. Please use it to tag your tweets, Instagrams & other posts related to the event!
 
 ## Documentation Policy  
 
