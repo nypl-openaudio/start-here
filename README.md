@@ -1,8 +1,7 @@
 # Open Audio Weekend
 
-Repo for NYPL's 2016 Event, [Open Audio Weekend](http://togetherwelisten.nypl.org/openaudio/)
 
-This page contains a host of logistical and introductory materials for Open Audio Weekend, hosted at The New York Public Library, June 25-26, 2016. 
+Welcome to the repo for [Open Audio Weekend](http://togetherwelisten.nypl.org/openaudio/), hosted at The New York Public Library, June 25-26, 2016. 
 
 # Table of Contents  
 1. [Wayfinding](#wayfinding)
