@@ -54,3 +54,48 @@ Below are descriptions and links to the contributed collections
 * [Fresh Air](http://www.npr.org/programs/fresh-air/) with Terry Gross ([NPR](http://www.npr.org/)). Since its national debut in 1987, Fresh Air has been a highly acclaimed and much adored weekday magazine among public radio listeners. Each week, nearly 4.8 million people turn to Peabody Award-winning host Terry Gross for insightful conversations with the leading voices in contemporary arts and issues. The renowned program reaches a global audience, with over 620 public radio stations broadcasting Fresh Air, and 3 million podcast downloads each week.
 * [The World in Words](http://www.pri.org/collections/world-words) by [PRI](http://www.pri.org/) is a podcast about languages and the people who speak them. What happens to the brain on bilingualism? Should we fear the rise of global English? Is the United States losing its linguistic cohesion? Why are Chinese words about technology so inventive? Why does Icelandic have so many cool swearwords? Patrick Cox and Nina Porzucki bring you stories from the world’s linguistic frontlines. (In short, we’re nerdy and wordy.)
 * [Patricia Marx Interviews](http://www.wnyc.org/shows/patricia-marx/) is a series of interviews done for [WNYC](http://www.wnyc.org/) and other stations between 1961 and 1969 that include talks with: Woody Allen, Dick Gregory, William Golding, General Omar Bradley, Arthur C. Clarke, David Halberstam, Bob Hope, George Balanchine and others. Established in the year 2000, the [New York Public Radio Archives](http://www.wnyc.org/series/archives-preservation/) are the station's physical link to its rich and storied past.
+
+### Audio Length
+Average length of audio files in this collection.
+
+| Collection | long (45+ min) | medium (25-40 min) | short (under 20 min) |
+|---|---|---|---|
+| Brooklyn Public Library |   | x |   |
+| Buzzfeed | x |   |   |
+| Gimlet Media | x |   |   |
+| PRI’s The World In Words |   | x |   |
+| Fresh Air |   | x |   |
+| WNYC Archives |   | x |   |
+| The American Folklife Center, Library of Congress |   |   | x |
+| LIVE from The NYPL | x |   |   |
+| Visible Lives | x |   |   |
+
+### Collection genres
+Very loose categorizations of the collections by genre.
+
+| Collection | speeches | interviews | radio broadcasts | podcasts | oral histories | archives | live events |
+|---|---|---|---|---|---|---|---|
+| Brooklyn Public Library |   | x |   |   | x |   |   |
+| Buzzfeed |   | x |   | x |   |   |   |
+| Gimlet Media |   |   |   | x |   |   |   |
+| PRI’s The World In Words |   |   |   | x |   |   |   |
+| Fresh Air |   | x | x |   |   |   |   |
+| WNYC Archives |   | x | x |   |   | x |   |
+| The American Folklife Center, Library of Congress | x | x |   |   | x |   |   |
+| LIVE from The NYPL |   | x |   |   |   |   | x |
+| Visible Lives |   | x |   |   | x |   |   |
+
+### Audio production
+Is the audio edited and produced or unedited recordings?
+
+| Collection | yes | no |
+|---|---|---|
+| Brooklyn Public Library |   | x |
+| Buzzfeed | x |   |
+| Gimlet Media | x |   |
+| PRI’s The World In Words | x |   |
+| Fresh Air | x |   |
+| WNYC Archives | x |   |
+| The American Folklife Center, Library of Congress |   | x |
+| LIVE from The NYPL |   | x |
+| Visible Lives |   | x |
