@@ -1,7 +1,7 @@
 # Open Audio Weekend
 
 
-Welcome to the repo for [Open Audio Weekend](http://togetherwelisten.nypl.org/openaudio/), hosted at The New York Public Library, June 25-26, 2016. Here you'll find everything you need to get you oriented to our 2 days of prototyping, creating, and sharing new approaches to audio accessibility for the public good. 
+Welcome to the repo for [Open Audio Weekend](http://togetherwelisten.nypl.org/openaudio/), hosted at The New York Public Library, June 25-26, 2016. Here you'll find everything you need to get you oriented to our 2 days of prototyping, creating, and sharing new approaches to audio accessibility for the public good.
 
 # Table of Contents  
 1. [Logistics](#logistics)
@@ -67,12 +67,49 @@ Information regarding how to obtain audio and transcripts provided by the Open A
 
 ## Resources
 
-* [WebAIM: Web Accessibility in Mind](http://webaim.org/resources/) -
-Website with a number of excellent resources and services around web accessibility many of which are highlighted in the [Resources Page](http://webaim.org/resources/).
+### Speech Recognition, Speech To Text, Transcripts
+
+* [CMUSphinx](http://cmusphinx.sourceforge.net/) - a group of open-source speech recognition systems developed at Carnegie Mellon University.
+* [Kaldi](http://kaldi-asr.org/) - a toolkit for speech recognition written in C++ and licensed under the Apache License v2.0
+* [p2fa-vislab](https://github.com/ucbvislab/p2fa-vislab) - A script for audio/transcript alignment written in Python.
+* [Gentle](https://github.com/lowerquality/gentle) - Robust yet lenient forced-aligner built on Kaldi. A tool for aligning speech with text.
 * [Open Transcript Editor](https://github.com/NYPL/transcript-editor) - an open-source, self-hosted, web-based tool for correcting transcripts that were automatically generated using speech-to-text software via auto-transcription services such as [Pop Up Archive](https://popuparchive.com/). It is being developed by [NYPL Labs](http://www.nypl.org/collections/labs) in partnership with [The Moth](http://themoth.org/) and [Pop Up Archive](https://popuparchive.com/) with generous support from the [Knight Foundation](http://www.knightfoundation.org/grants/201551666/). Example implementations can be found at:
   * [The NYPL Community Oral History Transcript Editor](http://transcribe.oralhistory.nypl.org/)
   * [StoryScribe by The Moth](http://storyscribe.themoth.org/)
   * [Open Audio Weekend](https://opentranscript.herokuapp.com/) - contains transcripts specifically for this event
+
+### Audio Analysis
+
+* [Praat](http://www.fon.hum.uva.nl/praat/) - a free scientific computer software package for the analysis of speech in phonetics
+* [Sonic Visualiser](http://www.sonicvisualiser.org/) - a free application for viewing and analyzing the contents of audio files
+* [WaveSurfer](http://www.speech.kth.se/wavesurfer/) - a free audio editor widely used for studies of acoustic phonetics
+
+### Audio Manipulation, Converters
+
+* [FFmpeg](http://ffmpeg.org/) - a free software project that produces libraries and programs for handling multimedia data
+* [Audacity](https://sourceforge.net/projects/audacity/) - A free multi-track audio editor and recorder
+* [VLC media player](http://www.videolan.org/vlc/index.html) - open source cross-platform multimedia player; useful for media file conversion (e.g. mp3 -> wav)
+* [Pydub](http://pydub.com/) - Manipulate audio with python
+* [Audio clipping tool](https://github.com/popuparchive/audiosearch-cookbook/wiki/Clipmaker). "Give us an audio file, an image, and some timestamped text and we'll give you a brief video that you can download or tweet." part of the [Audiosear.ch API](https://www.audiosear.ch/) cookbook.
+
+### Audio Synthesis, Programming
+
+* [Csound](http://csound.github.io/) - a computer programming language for sound
+* [ChucK](http://chuck.cs.princeton.edu/) - a concurrent, strongly timed audio programming language for real-time synthesis, composition, and performance
+* [Pure Data](http://puredata.info/) - a visual programming language for creating interactive computer music and multimedia works
+* [SuperCollider](http://supercollider.github.io/) - an environment and programming language for real-time audio synthesis and algorithmic composition
+* [FluidSynth](http://fluidsynth.sourceforge.net/) - a free open source software synthesizer
+* [Timbre.js](http://mohayonao.github.io/timbre.js/) - a functional processing and synthesizing audio for the web
+* [Flocking](http://flockingjs.org/) - a JavaScript audio synthesis framework designed for artists and musicians
+
+### Data
+
+* [Audiosear.ch API](https://www.audiosear.ch/) - Full text search & recommendation API for podcasts and radio. [Free API](https://audiosear.ch/developer) is also available.
+
+### Accessibility
+
+* [WebAIM: Web Accessibility in Mind](http://webaim.org/resources/) -
+Website with a number of excellent resources and services around web accessibility many of which are highlighted in the [Resources Page](http://webaim.org/resources/).
 
 ## Slack & Social Media
 We’ve set up an instance of Slack for use during the event. For those of you not familiar with Slack, it’s a chatroom allowing group and 1-on-1 conversations. To use the event Slack, just log in at: [togetherwelisten.nypl.org/openaudio/talk](http://togetherwelisten.nypl.org/openaudio/talk/).
