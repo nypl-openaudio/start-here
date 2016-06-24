@@ -17,6 +17,7 @@ You can access the content (audio, computer-generated transcripts, and other dat
 | [Another Round](https://www.buzzfeed.com/anotherround) (13 items, ~12 hours) | [Buzzfeed](https://www.buzzfeed.com/) | [download .zip](https://s3.amazonaws.com/togetherwelisten.nypl.org/data/data-buzzfeed.zip) (~1.2GB) | [repository of materials](https://github.com/nypl-openaudio/data-buzzfeed) |
 | [Reply All](https://gimletmedia.com/show/reply-all/), [Mystery Show](https://gimletmedia.com/show/mystery-show/), [Surprisingly Awesome](https://gimletmedia.com/show/surprisingly-awesome/), [Sampler](https://gimletmedia.com/show/sampler/) (15 items, ~11 hours) | [Gimlet Media](https://gimletmedia.com/) | [download .zip](https://s3.amazonaws.com/togetherwelisten.nypl.org/data/data-gimlet.zip) (~1.4GB) | [repository of materials](https://github.com/nypl-openaudio/data-gimlet) |
 | [Center for Applied Linguistics Collection](https://www.loc.gov/collections/american-english-dialect-recordings-from-the-center-for-applied-linguistics/about-this-collection/) (43 items, ~10 hours) | [The Library of Congress](https://loc.gov) | [download .zip](https://s3.amazonaws.com/togetherwelisten.nypl.org/data/data-library-of-congress.zip) (~2.3GB) | [repository of materials](https://github.com/nypl-openaudio/data-library-of-congress) |
+| [The Moth](https://themoth.org/) (40 items, ~9 hours) | [The Moth](https://themoth.org/) | [download .zip](https://s3.amazonaws.com/togetherwelisten.nypl.org/data/data-the-moth.zip) (~362MB) | [repository of materials](https://github.com/nypl-openaudio/data-the-moth) |
 | [LIVE from the NYPL](http://www.nypl.org/events/live-nypl) (6 items, ~8 hours) | [The New York Public Library](http://www.nypl.org/) | [download .zip](https://s3.amazonaws.com/togetherwelisten.nypl.org/data/data-nypl-live.zip) (~1GB) | [repository of materials](https://github.com/nypl-openaudio/data-nypl-live) |
 | [Visible Lives](http://oralhistory.nypl.org/neighborhoods/visible-lives) (30 items, ~23 hours) | [The New York Public Library](http://www.nypl.org/) | [download .zip](https://s3.amazonaws.com/togetherwelisten.nypl.org/data/data-nypl-visible-lives.zip) (~3.5GB) | [repository of materials](https://github.com/nypl-openaudio/data-nypl-visible-lives) |
 | [Fresh Air](http://www.npr.org/programs/fresh-air/) with Terry Gross (10 items, ~4.5 hours) | [NPR](http://www.npr.org/) | [download .zip](https://s3.amazonaws.com/togetherwelisten.nypl.org/data/data-npr-fresh-air.zip) (~533MB) | [repository of materials](https://github.com/nypl-openaudio/data-npr-fresh-air/) |
@@ -48,6 +49,7 @@ Below are descriptions and links to the contributed collections
   * [Sampler](https://gimletmedia.com/show/sampler/) - A podcast about podcasts, hosted by Brittany Luse
 * [Center for Applied Linguistics Collection](https://www.loc.gov/collections/american-english-dialect-recordings-from-the-center-for-applied-linguistics/about-this-collection/) provided by the [The Library of Congress](https://loc.gov) contains 118 hours of recordings documenting North American English dialects. The recordings include speech samples, linguistic interviews, oral histories, conversations, and excerpts from public speeches. The Library of Congress is the world’s largest library, offering access to the creative record of the United States—and extensive materials from around the world—both on site and online. It is the main research arm of the U.S. Congress and the home of the U.S. Copyright Office.
 * Since its launch in 1997, [The Moth](https://themoth.org/) has presented thousands of stories told live and without notes. Moth shows are renowned for the great range of human experience they showcase. Each show starts with a theme, and the storytellers explore it, often in unexpected ways. Since each story is true and every voice authentic, the shows dance between documentary and theater, creating a unique, intimate, and often enlightening experience for the audience.
+* Since its launch in 1997, [The Moth](https://themoth.org/) has presented thousands of stories told live and without notes. Moth shows are renowned for the great range of human experience they showcase. Each show starts with a theme, and the storytellers explore it, often in unexpected ways. Since each story is true and every voice authentic, the shows dance between documentary and theater, creating a unique, intimate, and often enlightening experience for the audience.
 * [LIVE from the NYPL](http://www.nypl.org/events/live-nypl) is [The New York Public Library](http://www.nypl.org/)'s flagship ticketed event series, offering programs that are as unique and engaging as the Library itself, and embody the institution's mission to educate, inform, and inspire the diverse community it serves in New York and beyond. Under the direction of Paul Holdengräber since it launched in 2005, LIVE's provocative conversations, real debates, irresistible performances and original experiences are exercises in cognitive theater designed to stimulate cultural curiosity. During its Fall and Spring seasons, LIVE welcomes to its stage the literary icons, groundbreaking artists, creative filmmakers, notable historians, influential leaders and emerging tastemakers who are shaping the world today.
 * [Visible Lives: Oral Histories of the Disability Experience](http://oralhistory.nypl.org/neighborhoods/visible-lives) is an oral history project by [The New York Public Library Community Oral History Project](http://oralhistory.nypl.org/) that works to both preserve and document a thematic history through personal recollections. This project will collect stories of people who are living with a disability and the Library will train community members to conduct these interviews.
 * [Fresh Air](http://www.npr.org/programs/fresh-air/) with Terry Gross ([NPR](http://www.npr.org/)). Since its national debut in 1987, Fresh Air has been a highly acclaimed and much adored weekday magazine among public radio listeners. Each week, nearly 4.8 million people turn to Peabody Award-winning host Terry Gross for insightful conversations with the leading voices in contemporary arts and issues. The renowned program reaches a global audience, with over 620 public radio stations broadcasting Fresh Air, and 3 million podcast downloads each week.
@@ -68,6 +70,7 @@ Average length of audio files in this collection.
 | The American Folklife Center, Library of Congress |   |   | x |
 | LIVE from The NYPL | x |   |   |
 | Visible Lives | x |   |   |
+| The Moth |   |   | x |
 
 ### Collection genres
 Very loose categorizations of the collections by genre.
@@ -83,6 +86,7 @@ Very loose categorizations of the collections by genre.
 | The American Folklife Center, Library of Congress | x | x |   |   | x |   |   |
 | LIVE from The NYPL |   | x |   |   |   |   | x |
 | Visible Lives |   | x |   |   | x |   |   |
+| The Moth |   |   |   |   |   |   | x |
 
 ### Audio production
 Is the audio edited and produced or unedited recordings?
@@ -98,3 +102,4 @@ Is the audio edited and produced or unedited recordings?
 | The American Folklife Center, Library of Congress |   | x |
 | LIVE from The NYPL |   | x |
 | Visible Lives |   | x |
+| The Moth | x |   |
