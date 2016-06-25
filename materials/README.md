@@ -1,6 +1,6 @@
 # Open Audio Weekend Materials
 
-NYPL, The Moth, and our partner organizations have made 206 audio files (over 124 hours), 206 computer-generated transcripts, 36 human-generated transcripts, and 11,845 annotations available for use in this event.
+NYPL, The Moth, and our partner organizations have made 208 audio files (over 125 hours), 206 computer-generated transcripts, 36 human-generated transcripts, and 11,845 annotations available for use in this event.
 
 - [Access The Collections](#access-the-collections)
 - [Collection Details](#collection-details)
@@ -23,6 +23,7 @@ You can access the content (audio, computer-generated transcripts, and other dat
 | [Fresh Air](http://www.npr.org/programs/fresh-air/) with Terry Gross (10 items, ~4.5 hours) | [NPR](http://www.npr.org/) | [download .zip](https://s3.amazonaws.com/togetherwelisten.nypl.org/data/data-npr-fresh-air.zip) (~533MB) | [repository of materials](https://github.com/nypl-openaudio/data-npr-fresh-air/) |
 | [The World in Words](http://www.pri.org/collections/world-words) (8 items, ~3 hours) | [PRI](http://www.pri.org/) | [download .zip](https://s3.amazonaws.com/togetherwelisten.nypl.org/data/data-pri-world-in-words.zip) (~347MB) | [repository of materials](https://github.com/nypl-openaudio/data-pri-world-in-words) |
 | [Patricia Marx Interviews](http://www.wnyc.org/shows/patricia-marx/) (20 items, ~9 hours) | [WNYC Preservation](http://www.wnyc.org/preservation/) | [download .zip](https://s3.amazonaws.com/togetherwelisten.nypl.org/data/data-wnyc.zip) (~1GB) | [repository of materials](https://github.com/nypl-openaudio/data-wnyc) |
+| [Brooklyn Historical Society Oral History](http://brooklynhistory.org/library/wp/library-collections/oralhistory/) (2 items, ~1.5 hours) | [Brooklyn Historical Society](http://www.brooklynhistory.org/) | [download .zip](https://s3.amazonaws.com/togetherwelisten.nypl.org/data/data-brooklyn-historical-society.zip) (~69MB) | [repository of materials](https://github.com/nypl-openaudio/data-brooklyn-historical-society) |
 
 ### Browse/search transcripts via web interface
 
@@ -55,6 +56,7 @@ Below are descriptions and links to the contributed collections
 * [Fresh Air](http://www.npr.org/programs/fresh-air/) with Terry Gross ([NPR](http://www.npr.org/)). Since its national debut in 1987, Fresh Air has been a highly acclaimed and much adored weekday magazine among public radio listeners. Each week, nearly 4.8 million people turn to Peabody Award-winning host Terry Gross for insightful conversations with the leading voices in contemporary arts and issues. The renowned program reaches a global audience, with over 620 public radio stations broadcasting Fresh Air, and 3 million podcast downloads each week.
 * [The World in Words](http://www.pri.org/collections/world-words) by [PRI](http://www.pri.org/) is a podcast about languages and the people who speak them. What happens to the brain on bilingualism? Should we fear the rise of global English? Is the United States losing its linguistic cohesion? Why are Chinese words about technology so inventive? Why does Icelandic have so many cool swearwords? Patrick Cox and Nina Porzucki bring you stories from the world’s linguistic frontlines. (In short, we’re nerdy and wordy.)
 * [Patricia Marx Interviews](http://www.wnyc.org/shows/patricia-marx/) is a series of interviews done for [WNYC](http://www.wnyc.org/) and other stations between 1961 and 1969 that include talks with: Woody Allen, Dick Gregory, William Golding, General Omar Bradley, Arthur C. Clarke, David Halberstam, Bob Hope, George Balanchine and others. Established in the year 2000, the [New York Public Radio Archives](http://www.wnyc.org/series/archives-preservation/) are the station's physical link to its rich and storied past.
+* [Brooklyn Historical Society](http://brooklynhistory.org/)’s [oral history collections](http://brooklynhistory.org/library/wp/library-collections/oralhistory/) began in 1973 with the Puerto Rican Oral History Collection, 1973-1975 and include interviews with narrators born as early as 1890.
 
 ### Audio Length
 Average length of audio files in this collection.
@@ -71,6 +73,7 @@ Average length of audio files in this collection.
 | LIVE from The NYPL | x |   |   |
 | Visible Lives | x |   |   |
 | The Moth |   |   | x |
+| Brooklyn Historical Society | x |   | x |
 
 ### Collection genres
 Very loose categorizations of the collections by genre.
@@ -87,6 +90,7 @@ Very loose categorizations of the collections by genre.
 | LIVE from The NYPL |   | x |   |   |   |   | x |
 | Visible Lives |   | x |   |   | x |   |   |
 | The Moth |   |   |   |   |   |   | x |
+| Brooklyn Historical Society |   |   |   |   | x |   |   |
 
 ### Audio production
 Is the audio edited and produced or unedited recordings?
@@ -103,3 +107,4 @@ Is the audio edited and produced or unedited recordings?
 | LIVE from The NYPL |   | x |
 | Visible Lives |   | x |
 | The Moth | x |   |
+| Brooklyn Historical Society |   | x |
