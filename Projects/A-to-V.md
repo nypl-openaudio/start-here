@@ -1,6 +1,7 @@
 # A-to-V  
 <img align="left" src="https://raw.githubusercontent.com/nypl-openaudio/start-here/master/Projects/Images/atov.png" alt="logo of stylized A and V">  
-## Team members:  Danielle Cordovez, Emma Jablonski, Eric Marcus, Emily Saltz  
+## Team members:  
+Danielle Cordovez, Emma Jablonski, Eric Marcus, Emily Saltz    
 ## Short Description:  
  A-to-V is a one-stop central database where collectors of oral histories provide searchable information about their audio files and make those files directly available to users.  
 ## Long Description
