@@ -1,4 +1,5 @@
 # Open Audio Weekend Projects  
+### Table of Contents  
 **[BPL Sampler](#bpl-sampler-1)**  
 Cut up a person’s Brooklyn Public Library interview into a sampler instrument.  
 
@@ -19,7 +20,6 @@ Process audio transcripts, apply common topics, gather visual resources, and bui
 
 **[A-to-V](#a-to-v-1)**  
 A-to-V is a one-stop central database where collectors of oral histories provide searchable information about their audio files and make those files directly available to users.  
-
 
 # BPL Sampler  
 #### Short description  
