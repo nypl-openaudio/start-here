@@ -1,24 +1,24 @@
 # Open Audio Weekend Projects  
 ### Table of Contents  
-**[BPL Sampler](#bpl-sampler-1)**  
+**[BPL Sampler](#bpl-sampler)**  
 A hip hop beat were two of the sampler instruments are voices excerpted fro the Brooklyn Public Library [Our Streets, Our Stories](http://www.bklynlibrary.org/seniors/our-streets-our-stories-o). This active listening and remixing model could have great application in the classroom!  
 
-**[CrowdScribe](#crowdscribe-1)**  
+**[CrowdScribe](#crowdscribe)**  
 A Chrome extension prototype for public requesting and gathering transcriptions. This prototype raises awareness around accessibility, allows for the crowdsourcing of transcription, and is designed with live events in mind. By targeting live events, the extension builds upon existing communities and audiences.   
 
-**[Homemade History](#homemade-history-1)**  
+**[Homemade History](#homemade-history)**  
 Remixing oral history  
 
-**[P.I.T.C.H.Y. D.A.W.G. (Perfecting Interactive Technology for Content Heard by You Despite Awkward Word Groupings)](#pitchy-dawg-perfecting-interactive-technology-for-content-heard-by-you-despite-awkward-word-groupings-1)**  
+**[P.I.T.C.H.Y. D.A.W.G. (Perfecting Interactive Technology for Content Heard by You Despite Awkward Word Groupings)](#pitchy-dawg-perfecting-interactive-technology-for-content-heard-by-you-despite-awkward-word-groupings)**  
 Platform for sharing related media synced with audio.   
 
-**[Storynode](#storynode-1)**  
-Stanford Named Entity Recognizer + Transcript = AWESOME MAP  
+**[Storynode](#storynode)**  
+To identify place names, transcripts are run through the Stanford Named Entity Recognizer. These place names are then plotted on a map, creating a cartographic way of browsing audio and transcriptions.    
 
-**[InstaBurns](#instaburns-1)**  
+**[InstaBurns](#instaburns)**  
 Process audio transcripts, apply common topics, gather visual resources, and build illustrative slideshows. Use the topics and images for discovery and navigation.  
 
-**[A-to-V](#a-to-v-1)**  
+**[A-to-V](#a-to-v)**  
 A-to-V is a one-stop central database where collectors of oral histories provide searchable information about their audio files and make those files directly available to users.  
 
 # BPL Sampler  
@@ -66,7 +66,7 @@ Module-based curated audio experience based on 3 basic types of Users/Listeners:
 # Storynode  
 <img align="left" width="400px" src="https://raw.githubusercontent.com/nypl-openaudio/start-here/master/Projects/Images/storynode.png" alt="screenshot of prototype interface with text on right column of screen and a map with some points on it on the left column of the screen">  
 #### Short Description  
-Stanford Named Entity Recognizer + Transcript = AWESOME MAP  
+To identify place names, transcripts are run through the Stanford Named Entity Recognizer. These place names are then plotted on a map, creating a cartographic way of browsing audio and transcriptions.  
 
 #### Links and Materials  
 [Github Repository](https://github.com/bertspaan/openaudioweekend)  
@@ -119,6 +119,8 @@ We focused on the audio player screen for development, but thought through conce
  A-to-V is a one-stop central database where collectors of oral histories provide searchable information about their audio files and make those files directly available to users.  
 #### Links and Materials  
 [Demo Presentation](https://github.com/nypl-openaudio/start-here/blob/master/Projects/Images/A%20to%20V.pdf)  
+[Github Repository](https://github.com/emmjab/a-to-v)  
+
 #### Long Description
 Where does the content for A to V come from?
 * Crowd-sourced data and content from private collections.  
