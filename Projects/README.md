@@ -10,7 +10,7 @@ A Chrome extension prototype for public requesting and gathering transcriptions.
 A project modeling potential engagement and resuse activities around oral history collections. Building on NYPL's Open Transcript Editor, this model would allow for users to clip two minutes of an oral history and record their own complimentary response to the clip which would be ingested back into the larger collection.  
 
 **[P.I.T.C.H.Y. D.A.W.G. (Perfecting Interactive Technology for Content Heard by You Despite Awkward Word Groupings)](#pitchy-dawg-perfecting-interactive-technology-for-content-heard-by-you-despite-awkward-word-groupings)**  
-Platform for sharing related media synced with audio.   
+Platform for sharing related media synced with audio. Listeners can select from three modes of listinging: Audio Only, Highlights, Full Experience. Full Experience provides an enhanced experience by displaying both the transcript and related media synced with the audio. Highlights allows for condensed navigation of the audio by displaying keywords indexed from the transcript.  
 
 **[Storynode](#storynode)**  
 To identify place names, transcripts are run through the Stanford Named Entity Recognizer. These place names are then plotted on a map, creating a cartographic way of browsing audio and transcriptions.    
@@ -55,7 +55,7 @@ Wireframe to be prepared along with a business case. An existing audio app will 
 # P.I.T.C.H.Y. D.A.W.G. (Perfecting Interactive Technology for Content Heard by You Despite Awkward Word Groupings)
 <img align="left" src="https://raw.githubusercontent.com/nypl-openaudio/start-here/master/Projects/Images/pdlogo.png" alt="image of a wolf howling team name">
 #### Short Description:  
-Platform for sharing related media synced with audio.  
+Platform for sharing related media synced with audio. Listeners can select from three modes of listinging: Audio Only, Highlights, Full Experience. Full Experience provides an enhanced experience by displaying both the transcript and related media synced with the audio. Highlights allows for condensed navigation of the audio by displaying keywords indexed from the transcript.  
 
 #### Links and materials  
 [Demo Presentation](https://github.com/nypl-openaudio/start-here/blob/master/Projects/Images/P.I.T.C.H.Y.%20D.A.W.G..pdf)  
