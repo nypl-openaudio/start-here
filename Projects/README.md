@@ -1,10 +1,10 @@
 # Open Audio Weekend Projects  
 ### Table of Contents  
 **[BPL Sampler](#bpl-sampler-1)**  
-Cut up a person’s Brooklyn Public Library interview into a sampler instrument.  
+A hip hop beat were two of the sampler instruments are voices excerpted fro the Brooklyn Public Library [Our Streets, Our Stories](http://www.bklynlibrary.org/seniors/our-streets-our-stories-o). This active listening and remixing model could have great application in the classroom!  
 
 **[CrowdScribe](#crowdscribe-1)**  
-Prototype of chrome extension for requesting and gathering transcriptions  
+A Chrome extension prototype for public requesting and gathering transcriptions. This prototype raises awareness around accessibility, allows for the crowdsourcing of transcription, and is designed with live events in mind. By targeting live events, the extension builds upon existing communities and audiences.   
 
 **[Homemade History](#homemade-history-1)**  
 Remixing oral history  
@@ -23,7 +23,7 @@ A-to-V is a one-stop central database where collectors of oral histories provide
 
 # BPL Sampler  
 #### Short description  
-Cut up a person’s Brooklyn Public Library interview into a sampler instrument.  
+A hip hop beat were two of the sampler instruments are voices excerpted fro the Brooklyn Public Library [Our Streets, Our Stories](http://www.bklynlibrary.org/seniors/our-streets-our-stories-o). This active listening and remixing model could have great application in the classroom!  
 #### Links and materials  
 [Github Repo](https://github.com/kning/bpl_sampler)  
 #### Long description  
@@ -33,7 +33,7 @@ How can audio storytelling and music combine in a way that encourages people to 
 <img align="left" src="https://raw.githubusercontent.com/nypl-openaudio/start-here/master/Projects/Images/crowdscribe.png" width="300px" alt="logo of crowd and scribe as written in shorthand">  
 **Team Members**:  Darius Bacon (@abecedarius), Clarisa Diaz (@clarii_d), Joanna S. Kao (@joannaskao), Stanley Sakai (@stanographer)  
 #### Short Description  
-Prototype of chrome extension for requesting and gathering transcriptions   
+A Chrome extension prototype for public requesting and gathering transcriptions. This prototype raises awareness around accessibility, allows for the crowdsourcing of transcription, and is designed with live events in mind. By targeting live events, the extension builds upon existing communities and audiences.  
 #### Code/wireframes:  
 [https://github.com/ClarisaD/crowdscribe](https://github.com/ClarisaD/crowdscribe)  
 #### Long description:  
