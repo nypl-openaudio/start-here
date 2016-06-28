@@ -12,6 +12,7 @@ Prototype of chrome extension for requesting and gathering transcriptions
 Remixing oral history  
 
 ## [InstaBurns](https://github.com/nypl-openaudio/start-here/blob/master/Projects/InstaBurns.md)  
+Process audio transcripts, apply common topics, gather visual resources, and build illustrative slideshows. Use the topics and images for discovery and navigation.  
 
 ## [P.I.T.C.H.Y. D.A.W.G. (Perfecting Interactive Technology for Content Heard by You Despite Awkward Word Groupings)](https://github.com/nypl-openaudio/start-here/blob/master/Projects/P.I.T.C.H.Y.%20D.A.W.G.md)  
 Platform for sharing related media synced with audio.  
