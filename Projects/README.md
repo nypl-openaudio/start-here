@@ -7,7 +7,7 @@ A hip hop beat were two of the sampler instruments are voices excerpted fro the 
 A Chrome extension prototype for public requesting and gathering transcriptions. This prototype raises awareness around accessibility, allows for the crowdsourcing of transcription, and is designed with live events in mind. By targeting live events, the extension builds upon existing communities and audiences.   
 
 **[Homemade History](#homemade-history)**  
-Remixing oral history  
+A project modeling potential engagement and resuse activities around oral history collections. Building on NYPL's Open Transcript Editor, this model would allow for users to clip two minutes of an oral history and record their own complimentary response to the clip which would be ingested back into the larger collection.  
 
 **[P.I.T.C.H.Y. D.A.W.G. (Perfecting Interactive Technology for Content Heard by You Despite Awkward Word Groupings)](#pitchy-dawg-perfecting-interactive-technology-for-content-heard-by-you-despite-awkward-word-groupings)**  
 Platform for sharing related media synced with audio.   
@@ -16,7 +16,7 @@ Platform for sharing related media synced with audio.
 To identify place names, transcripts are run through the Stanford Named Entity Recognizer. These place names are then plotted on a map, creating a cartographic way of browsing audio and transcriptions.    
 
 **[InstaBurns](#instaburns)**  
-Process audio transcripts, apply common topics, gather visual resources, and build illustrative slideshows. Use the topics and images for discovery and navigation.  
+InstaBurns is an experiment in auto-generating common terms and their frequency from transcripts in order to explore the relationship of terms withing and across audio files. The InstaBurns platform also uses significant terms to automatically generate a slideshow of related images using the Google Image API.    
 
 **[A-to-V](#a-to-v)**  
 A-to-V is a one-stop central database where collectors of oral histories provide searchable information about their audio files and make those files directly available to users.  
@@ -42,7 +42,7 @@ Crowdscribe is a proof of concept for a Chrome extension that supports crowdsour
 # Homemade History 
 <img align="left" src="https://raw.githubusercontent.com/nypl-openaudio/start-here/master/Projects/Images/homemadehistorylogo.png" alt="logo composed of project name on dark background">
 #### Short Description:  
-Remixing oral history
+A project modeling potential engagement and resuse activities around oral history collections. Building on NYPL's Open Transcript Editor, this model would allow for users to clip two minutes of an oral history and record their own complimentary response to the clip which would be ingested back into the larger collection.   
 #### Audience  
 School age to baby boomers.  
 #### Links and materials:  
@@ -77,7 +77,7 @@ Wouldn’t it be great if we could see all the locations mentioned in an oral hi
 
 # InstaBurns  
 #### Short Description  
-Process audio transcripts, apply common topics, gather visual resources, and build illustrative slideshows. Use the topics and images for discovery and navigation.  
+InstaBurns is an experiment in auto-generating common terms and their frequency from transcripts in order to explore the relationship of terms withing and across audio files. The InstaBurns platform also uses significant terms to automatically generate a slideshow of related images using the Google Image API.  
 
 #### Theme  
 Discovery  
@@ -86,6 +86,8 @@ Discovery
 [Demo Presentation](https://github.com/nypl-openaudio/start-here/blob/master/Projects/Images/%E2%80%9CInstaBurns%E2%80%9D%20Visual%20Navigator.pdf)
 
 #### Long Description  
+An experiment to process audio transcripts, apply common topics, gather visual resources, and build illustrative slideshows with an interface to use the topics and images for discovery and navigation.  
+
 Our goal was to help users explore large collections of audio and discover thematic relationships. The challenge is “seeing” an overview of what is inside a specific audio file, diving in more deeply, and using that as a launch-point for serendipity and discovery.  
 
 We considered three primary audiences and a range of user scenarios  
@@ -96,7 +98,8 @@ We considered three primary audiences and a range of user scenarios
 
 **Researchers and students who want to gather resources related to topics of interest**  
 * Collecting segments of audio and organizing references as part of larger research projects  
-* Archivists and resource managers  
+
+**Archivists and resource managers**  
 * Answering questions from others about finding or using specific audio resources  
 * Performing background research when creating new works  
 
