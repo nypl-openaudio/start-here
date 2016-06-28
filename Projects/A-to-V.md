@@ -1,10 +1,8 @@
 # A-to-V  
 <img align="left" src="https://raw.githubusercontent.com/nypl-openaudio/start-here/master/Projects/Images/atov.png" alt="logo of stylized A and V">  
-## Team members:  
-Danielle Cordovez, Emma Jablonski, Eric Marcus, Emily Saltz    
-## Short Description:  
+#### Short Description:  
  A-to-V is a one-stop central database where collectors of oral histories provide searchable information about their audio files and make those files directly available to users.  
-## Long Description
+#### Long Description
 Where does the content for A to V come from?
 * Crowd-sourced data and content from private collections.  
 * Public audio archives (e.g., NYPL, Library of Congress).  
@@ -39,3 +37,6 @@ Interviewer and interviewee names
 
 What does it look like?  
 The principal image on the home is a map of the United States.  Homepage includes a navigation bar, as well as a sidebar for displaying information in list form.  
+
+#### Links and Materials  
+[Demo Presentation](https://github.com/nypl-openaudio/start-here/blob/master/Projects/Images/A%20to%20V.pdf)
