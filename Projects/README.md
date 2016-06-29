@@ -31,7 +31,6 @@ How can audio storytelling and music combine in a way that encourages people to 
 
 # CrowdScribe  
 <img align="left" src="https://raw.githubusercontent.com/nypl-openaudio/start-here/master/Projects/Images/crowdscribe.png" width="300px" alt="logo of crowd and scribe as written in shorthand">  
-**Team Members**:  Darius Bacon (@abecedarius), Clarisa Diaz (@clarii_d), Joanna S. Kao (@joannaskao), Stanley Sakai (@stanographer)  
 #### Short Description  
 A Chrome extension prototype for public requesting and gathering transcriptions. This prototype raises awareness around accessibility, allows for the crowdsourcing of transcription, and is designed with live events in mind. By targeting live events, the extension builds upon existing communities and audiences.  
 #### Code/wireframes:  
